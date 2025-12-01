@@ -1,0 +1,5 @@
+{
+  "name": "LumiSky - AI Fireworks Studio",
+  "description": "An interactive fireworks simulation where you can design custom pyrotechnic displays using natural language powered by Gemini AI. Create, launch, and enjoy a digital light show.",
+  "requestFramePermissions": []
+}
